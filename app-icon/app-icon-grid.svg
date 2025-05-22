@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
-  <g fill="none" stroke="#fff" stroke-width="0.8%" opacity="20%">
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="currentcolor" stroke-width="0.8%" opacity="20%">
     <circle cx="50%" cy="50%" r="46.875%" />
     <rect rx="6.25%" ry="6.25%" x="9.375%" y="9.375%" height="81.25%" width="81.25%" />
   </g>
